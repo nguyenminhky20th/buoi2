@@ -27,7 +27,7 @@ section{
 }
 
 aside{
-    width: 200px;
+    width: 205px;
     float: left;
 
 }
@@ -47,7 +47,7 @@ aside ul{
     margin-top: 0;
 }
 article{
-    width:690px;
+    width:680px;
     float: right;
     background: url(../images/bg_post.gif) no-repeat bottom right;
 }
