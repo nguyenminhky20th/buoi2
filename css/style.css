@@ -23,7 +23,6 @@ header{
 
 section{
     width: 900px;
-
 }
 
 aside{
@@ -47,10 +46,15 @@ aside ul{
     margin-top: 0;
 }
 article{
-    width:680px;
+    width:685px;
     float: right;
     background: url(../images/bg_post.gif) no-repeat bottom right;
 }
+
+article h2{
+    color: blue;
+}
+
 article{
     text-align: justify;
 }
